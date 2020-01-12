@@ -1,0 +1,6 @@
+id=v415GPU
+name=Adreno530_GPUv415drive
+version=v1.0
+versionCode=10
+author=Light shadow cold
+description=This module is a GPU update module for Adreno530, updated to v415 version, only applicable to Android10, 9
